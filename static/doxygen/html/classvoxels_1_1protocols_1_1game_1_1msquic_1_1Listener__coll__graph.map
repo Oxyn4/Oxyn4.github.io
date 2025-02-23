@@ -1,0 +1,9 @@
+<map id="voxels::protocols::game::msquic::Listener" name="voxels::protocols::game::msquic::Listener">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,287,206,327"/>
+<area shape="rect" id="Node000002" href="$classvoxels_1_1protocols_1_1game_1_1quic_1_1Listener.html" title=" " alt="" coords="41,197,196,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,251,121,287,116,287,116,251"/>
+<area shape="rect" id="Node000003" href="$classvoxels_1_1protocols_1_1game_1_1ListenerEventDispatcher.html" title=" " alt="" coords="5,95,232,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,149,121,197,116,197,116,149"/>
+<area shape="rect" id="Node000004" href="$classvoxels_1_1protocols_1_1game_1_1EventDispatcher.html" title=" " alt="" coords="31,5,206,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,59,121,95,116,95,116,59"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="voxels::protocols::game::Connection&lt; Client &gt;" name="voxels::protocols::game::Connection&lt; Client &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="867,5,1075,45"/>
+<area shape="rect" id="Node000002" href="$classvoxels_1_1protocols_1_1game_1_1EventDispatcher.html" title=" " alt="" coords="5,13,180,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,25,229,24,502,19,775,19,843,19,866,19,866,24,843,24,775,24,502,24,229,29,194,31"/>
+<area shape="rect" id="Node000004" href="$classvoxels_1_1protocols_1_1game_1_1ConnectionEventDispatcher_3_01Client_01_4.html" title=" " alt="" coords="229,38,476,93"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="194,43,229,47,229,53,193,48"/>
+<area shape="rect" id="Node000003" href="$classvoxels_1_1protocols_1_1game_1_1DefaultConnectionEventDispatcher_3_01Client_01_4.html" title=" " alt="" coords="525,38,751,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="764,48,866,35,867,40,765,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="490,63,525,63,525,68,490,68"/>
+</map>
