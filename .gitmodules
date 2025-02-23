@@ -1,0 +1,3 @@
+[submodule "themes/oxyn"]
+	path = themes/oxyn
+	url = git@github.com:Oxyn4/personal-hugo-site-theme.git
