@@ -1,0 +1,7 @@
+<map id="voxels::protocols::game::ConnectionEventDispatcher&lt; Server &gt;" name="voxels::protocols::game::ConnectionEventDispatcher&lt; Server &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,252,148"/>
+<area shape="rect" id="Node000003" href="$classvoxels_1_1protocols_1_1game_1_1DefaultConnectionEventDispatcher_3_01Server_01_4.html" title=" " alt="" coords="16,196,241,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,162,131,196,126,196,126,162"/>
+<area shape="rect" id="Node000002" href="$classvoxels_1_1protocols_1_1game_1_1EventDispatcher.html" title=" " alt="" coords="41,5,216,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,59,131,93,126,93,126,59"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="voxels::protocols::game::ControlStreamDispatcher&lt; Client &gt;" name="voxels::protocols::game::ControlStreamDispatcher&lt; Client &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="512,13,743,67"/>
+<area shape="rect" id="Node000002" href="$classvoxels_1_1protocols_1_1game_1_1StreamEventDispatcher.html" title=" " alt="" coords="228,5,464,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,37,512,37,512,43,478,43"/>
+<area shape="rect" id="Node000003" href="$classvoxels_1_1protocols_1_1game_1_1EventDispatcher.html" title=" " alt="" coords="5,20,180,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,37,228,37,228,43,194,43"/>
+</map>
