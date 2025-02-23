@@ -1,0 +1,15 @@
+<map id="/home/runner/work/voxels&#45;networking/voxels&#45;networking/include/voxels/protocols/game/stream_dispatcher.hpp" name="/home/runner/work/voxels&#45;networking/voxels&#45;networking/include/voxels/protocols/game/stream_dispatcher.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,5,313,75"/>
+<area shape="rect" id="Node000002" href="$stream__events_8hpp.html" title=" " alt="" coords="5,196,152,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,77,127,99,106,124,92,153,85,183,80,182,87,152,102,121,123,95,148,73"/>
+<area shape="rect" id="Node000004" href="$stream__responses_8hpp.html" title=" " alt="" coords="117,123,286,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,75,204,109,199,109,199,75"/>
+<area shape="rect" id="Node000006" href="$event__dispatcher_8hpp.html" title=" " alt="" coords="310,123,471,148"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="271,72,356,114,354,119,269,77"/>
+<area shape="rect" id="Node000003" href="$endpoint_8hpp.html" title="Contains the definition of the LocalEndpointType concept." alt="" coords="136,269,243,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,219,161,259,158,264,95,224"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="203,149,194,256,189,255,198,148"/>
+<area shape="rect" id="Node000005" href="$response_8hpp.html" title=" " alt="" coords="227,196,336,221"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="216,146,260,185,256,189,212,150"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="268,223,217,263,213,259,265,219"/>
+</map>

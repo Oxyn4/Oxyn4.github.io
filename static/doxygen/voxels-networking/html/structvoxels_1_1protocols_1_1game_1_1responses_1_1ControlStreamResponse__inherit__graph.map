@@ -1,0 +1,9 @@
+<map id="voxels::protocols::game::responses::ControlStreamResponse" name="voxels::protocols::game::responses::ControlStreamResponse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,240,139"/>
+<area shape="rect" id="Node000002" href="$classvoxels_1_1protocols_1_1game_1_1responses_1_1ControlStreamInitiated.html" title=" " alt="" coords="288,5,523,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,78,306,58,307,63,235,83"/>
+<area shape="rect" id="Node000003" href="$structvoxels_1_1protocols_1_1game_1_1responses_1_1Identity_3_01Client_01_4.html" title=" " alt="" coords="310,84,501,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,109,310,109,310,114,254,114"/>
+<area shape="rect" id="Node000004" href="$structvoxels_1_1protocols_1_1game_1_1responses_1_1Identity_3_01Server_01_4.html" title=" " alt="" coords="310,163,501,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,140,310,161,309,166,234,145"/>
+</map>

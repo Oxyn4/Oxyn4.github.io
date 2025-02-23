@@ -1,0 +1,11 @@
+<map id="voxels::protocols::game::responses::Identity&lt; Server &gt;" name="voxels::protocols::game::responses::Identity&lt; Server &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="839,45,1029,100"/>
+<area shape="rect" id="Node000002" href="$structvoxels_1_1protocols_1_1game_1_1responses_1_1ControlStreamResponse.html" title=" " alt="" coords="556,5,791,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="805,50,839,55,838,61,804,55"/>
+<area shape="rect" id="Node000003" href="$classvoxels_1_1protocols_1_1game_1_1responses_1_1Reply.html" title=" " alt="" coords="578,84,769,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="782,93,838,84,839,89,783,98"/>
+<area shape="rect" id="Node000004" href="$classvoxels_1_1protocols_1_1game_1_1responses_1_1StreamResponse.html" title=" " alt="" coords="257,84,508,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="522,109,578,109,578,114,522,114"/>
+<area shape="rect" id="Node000005" href="$structvoxels_1_1protocols_1_1game_1_1responses_1_1Response.html" title=" " alt="" coords="5,84,209,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="223,109,257,109,257,114,223,114"/>
+</map>

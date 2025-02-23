@@ -1,0 +1,33 @@
+<map id="/home/runner/work/voxels&#45;networking/voxels&#45;networking/include/voxels/protocols/game/stream_dispatcher.hpp" name="/home/runner/work/voxels&#45;networking/voxels&#45;networking/include/voxels/protocols/game/stream_dispatcher.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,5,480,75"/>
+<area shape="rect" id="Node000002" href="$control__stream__dispatcher_8hpp.html" title=" " alt="" coords="5,123,232,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,83,193,125,190,120,282,78"/>
+<area shape="rect" id="Node000011" href="$quic_8hpp.html" title="Contains interface definitions for writing custom QUIC layers compatible with the voxels protocol lay..." alt="" coords="343,944,567,1013"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="453,80,476,99,494,121,514,160,521,194,520,273,520,745,515,822,495,897,475,945,470,943,489,895,510,821,515,745,515,273,516,194,509,162,490,124,472,103,450,84"/>
+<area shape="rect" id="Node000013" href="$stream_8hpp.html" title=" " alt="" coords="256,123,480,192"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="371,89,371,122,365,122,365,89"/>
+<area shape="rect" id="Node000003" href="$control__steam_8hpp.html" title=" " alt="" coords="56,240,280,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,204,156,239,151,241,136,206"/>
+<area shape="rect" id="Node000004" href="$connection__events_8hpp.html" title=" " alt="" coords="119,357,343,427"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,320,215,356,210,358,191,323"/>
+<area shape="rect" id="Node000008" href="$protocol_8hpp.html" title=" " alt="" coords="44,1296,268,1365"/>
+<area shape="poly" id="edge15_Node000003_Node000008" title=" " alt="" coords="131,322,109,358,94,398,87,431,84,508,84,1097,90,1153,104,1207,122,1256,140,1295,136,1297,117,1258,99,1208,84,1154,79,1097,79,508,81,430,89,397,104,356,126,319"/>
+<area shape="rect" id="Node000005" href="$connection__dispatcher_8hpp.html" title=" " alt="" coords="119,475,343,544"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,441,233,474,228,474,228,441"/>
+<area shape="rect" id="Node000006" href="$connection_8hpp.html" title=" " alt="" coords="119,592,343,661"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,558,233,592,228,592,228,558"/>
+<area shape="rect" id="Node000007" href="$listener_8hpp.html" title=" " alt="" coords="193,1179,417,1248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="229,675,224,761,221,860,221,980,228,1036,244,1090,265,1138,286,1177,282,1180,261,1141,239,1092,223,1037,216,980,216,860,219,761,224,675"/>
+<area shape="poly" id="edge14_Node000006_Node000008" title=" " alt="" coords="209,675,176,760,163,809,159,860,159,1097,159,1296,153,1296,153,1097,153,860,158,808,171,758,204,673"/>
+<area shape="rect" id="Node000009" href="$listener__events_8hpp.html" title=" " alt="" coords="256,709,480,779"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="283,668,329,707,326,711,279,672"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="253,1259,202,1298,198,1294,249,1254"/>
+<area shape="rect" id="Node000010" href="$listener__dispatcher_8hpp.html" title=" " alt="" coords="256,827,480,896"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="371,793,371,826,365,826,365,793"/>
+<area shape="poly" id="edge10_Node000010_Node000007" title=" " alt="" coords="346,909,333,945,320,1008,312,1073,308,1178,302,1178,307,1072,315,1008,328,943,341,908"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="404,906,431,942,427,945,400,909"/>
+<area shape="rect" id="Node000012" href="$msquic_8hpp.html" title=" " alt="" coords="343,1061,567,1131"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="457,1027,457,1061,452,1061,452,1027"/>
+<area shape="poly" id="edge13_Node000012_Node000007" title=" " alt="" coords="402,1141,351,1180,348,1176,399,1137"/>
+<area shape="poly" id="edge18_Node000013_Node000003" title=" " alt="" coords="299,201,228,242,225,238,296,197"/>
+</map>
