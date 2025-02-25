@@ -1,9 +1,0 @@
-<map id="voxels::protocols::game::events::IdentityReceived&lt; Client &gt;" name="voxels::protocols::game::events::IdentityReceived&lt; Client &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="517,45,747,100"/>
-<area shape="rect" id="Node000002" href="$structvoxels_1_1protocols_1_1game_1_1events_1_1ControlStreamEvent.html" title=" " alt="" coords="256,5,469,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,48,518,53,517,58,482,53"/>
-<area shape="rect" id="Node000003" href="$classvoxels_1_1protocols_1_1game_1_1events_1_1Received.html" title=" " alt="" coords="273,84,452,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="465,94,517,87,517,92,466,99"/>
-<area shape="rect" id="Node000004" href="$classvoxels_1_1protocols_1_1game_1_1events_1_1StreamEvent.html" title=" " alt="" coords="5,84,208,139"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,109,273,109,273,114,222,114"/>
-</map>
